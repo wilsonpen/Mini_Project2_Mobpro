@@ -10,9 +10,6 @@ import androidx.navigation.navArgument
 import com.ziven0069.miniproject2.screen.DetailScreen
 import com.ziven0069.miniproject2.screen.KEY_ID_BUKU
 import com.ziven0069.miniproject2.screen.MainScreen
-import com.ziven0069.miniproject2.screen.DetailScreen
-import com.ziven0069.miniproject2.screen.KEY_ID_BUKU
-import com.ziven0069.miniproject2.screen.MainScreen
 
 @Composable
 fun SetupNavGraph(navController: NavHostController = rememberNavController()){

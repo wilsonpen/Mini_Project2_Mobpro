@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PerpustakaanKu</string>
+    <string name="app_name">List Buku</string>
     <string name="list_kosong">Belum ada data buku</string>
     <string name="x_diklik">Buku %1$s diklik!</string>
     <string name="tambah_buku">Tambah Buku</string>
