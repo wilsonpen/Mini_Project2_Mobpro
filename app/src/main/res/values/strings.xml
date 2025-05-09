@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PerpustakaanKu</string>
+    <string name="list_kosong">Belum ada data buku</string>
+    <string name="x_diklik">Buku %1$s diklik!</string>
+    <string name="tambah_buku">Tambah Buku</string>
+    <string name="belum_bisa">Belum bisa tambah data buku.</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="isbn">ISBN</string>
+    <string name="kategori">Kategori</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="edit_buku">Ubah Data Buku</string>
+    <string name="hapus">Hapus</string>
+    <string name="invalid">Judul, ISBN, dan Kategori tidak boleh kosong</string>
+    <string name="pesan_hapus">Hapus data Buku ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+
+</resources>
